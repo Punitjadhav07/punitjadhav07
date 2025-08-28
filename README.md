@@ -1,11 +1,6 @@
 # Hi 👋, I'm Punit Jadhav
 
 <h3 align="center">A Passionate Full Stack Developer 🚀</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=punitjadhav07&theme=gruvbox&margin-w=15&margin-h=15" alt="punitjadhav07" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Punit+Jadhav;Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Node+%7C+Spring+%7C+SQL+%7C+Python;Open+Source+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
