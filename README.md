@@ -7,7 +7,6 @@ Hi 👋, I’m Punit Jadhav
 
 
 
-⸻
 
 🚧 Current Focus
 
@@ -28,7 +27,7 @@ Upcoming features:
 	•	💳 Order management
 	•	🧑‍💼 Admin dashboard (products, orders, users)
 
-⸻
+
 
 🧩 Recent Project
 
@@ -41,7 +40,7 @@ A modern expense tracking web app built with React, focused on clean UI and real
 	•	🗂️ Category-based filtering
 	•	⚡ Smooth animations & responsive UI
 
-⸻
+
 
 🍏 Apple Ecosystem
 	•	Daily driver: MacBook, iPhone, iPad
@@ -56,7 +55,7 @@ A modern expense tracking web app built with React, focused on clean UI and real
 
 
 
-⸻
+
 
 🌱 Currently Learning
 	•	Advanced React (patterns, performance, architecture)
@@ -64,7 +63,7 @@ A modern expense tracking web app built with React, focused on clean UI and real
 	•	Next.js for full-stack React apps
 	•	Secure authentication & APIs
 
-⸻
+
 
 👨‍💻 Portfolio & Projects
 	•	🌐 Personal Portfolio￼
@@ -72,7 +71,7 @@ A modern expense tracking web app built with React, focused on clean UI and real
 	•	💸 Expense Tracker￼
 	•	📂 More projects on my GitHub￼
 
-⸻
+
 
 📫 Connect with Me
 
@@ -85,7 +84,7 @@ A modern expense tracking web app built with React, focused on clean UI and real
 
 
 
-⸻
+
 
 🛠️ Languages & Tools
 
@@ -95,7 +94,7 @@ A modern expense tracking web app built with React, focused on clean UI and real
 
 
 
-⸻
+
 
 📊 GitHub Stats
 
@@ -106,7 +105,7 @@ A modern expense tracking web app built with React, focused on clean UI and real
 
 
 
-⸻
+
 
 ☕ Support My Work
 
