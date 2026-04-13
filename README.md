@@ -54,7 +54,7 @@
 
 ---
 
-## ◈ PROJECT_01 · LLM HALLUCINATION DETECTOR  `[CAPSTONE]`
+## ◈ PROJECT_01 · LLM HALLUCINATION DETECTOR:-  `[CAPSTONE]`
 
 ```
 ╔══════════════════════ RAG PIPELINE ARCHITECTURE ════════════════════════╗
